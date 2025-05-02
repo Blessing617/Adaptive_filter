@@ -14,7 +14,7 @@
   * 信号采样            PA0 -> ADC1_IN0
   *
   * @模块接线
-  * DAC8830模块        STM32G474RE
+  * DAC8830模块        STM32F103C8T6
   *      VCC   <------  5.0V      5V供电
   *      GND   -------  GND       地
   *      SCL   <------  PB4       SPI时钟线
